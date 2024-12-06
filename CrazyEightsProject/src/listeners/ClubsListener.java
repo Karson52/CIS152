@@ -21,7 +21,7 @@ public class ClubsListener implements ActionListener {
 		
 	}
 
-	@Override
+
 	public void actionPerformed(ActionEvent e) {
 		
 		playedCard.setWildSuit('C');
